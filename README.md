@@ -1,1 +1,1 @@
-# Modelling-the-transmission-of-AMR-bacteria-in-Chile
+# Modelling analysing GN-ABR for transmission in a Chilean semi-rural community
