@@ -1,5 +1,5 @@
 # Modelling analysing GN-ABR for transmission in a Chilean semi-rural community 
-Article: Transmission of gram-negative antibiotic-resistant bacteria following high and low exposure to antibiotic-resistance reservoirs in a rural community: a modelling study
+Article: Transmission of gram-negative antibiotic-resistant bacteria following high and low exposure to antibiotic-resistance reservoirs in a rural community: a modelling study for bloodstream infections
 
 See attached the Python script, last update on the 27th of January, 2022.
 
